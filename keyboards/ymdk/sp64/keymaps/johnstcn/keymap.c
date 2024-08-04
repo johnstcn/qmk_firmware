@@ -43,8 +43,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  */
 [_FN] = LAYOUT(
   _______,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,  KC_F6,              KC_F7,   KC_F8,   KC_F9,  KC_F10,  KC_F11,  KC_F12,  _______,
-  _______, _______, KC_UP,   _______, KC_PGUP, KC_HOME,           KC_WH_U, KC_BTN1, KC_MS_U, KC_BTN2, KC_ACL2, _______, _______, _______,
-  _______, KC_LEFT, KC_DOWN, KC_RGHT, KC_PGDN, KC_END,            KC_BTN3, KC_MS_L, KC_MS_D, KC_MS_R, KC_ACL1, _______,          _______,
+  _______, _______, KC_UP,   _______, KC_PGUP, KC_HOME,           KC_WH_U, KC_BTN1, KC_BTN3, KC_BTN2, KC_ACL2, _______, _______, _______,
+  _______, KC_LEFT, KC_DOWN, KC_RGHT, KC_PGDN, KC_END,            KC_MS_L, KC_MS_D, KC_MS_U, KC_MS_R, KC_ACL1, _______,          _______,
   _______, _______, _______, _______, _______, _______,           KC_WH_D, KC_WH_L, _______, KC_WH_R, KC_ACL0, _______, _______, _______,
   _______, _______, _______, _______,          _______,           KC_BTN1,          _______, _______,          _______, _______, _______
   ),
