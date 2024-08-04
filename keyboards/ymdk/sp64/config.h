@@ -22,3 +22,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COLS 15
 
 #define RIGHT_HALF
+#define MK_KINETIC_SPEED
